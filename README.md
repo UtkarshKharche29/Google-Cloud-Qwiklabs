@@ -1,5 +1,5 @@
 <p align="center">
-<h4 align="center">Show some ❤️ by starring my repositories & follow me for more help! <a href="https://github.com/UtkarshKharche29?tab=repositories"> Utkarsh Kharche </a></h4>
+<h4 align="center">This repository will definitely help you in completing the Google Cloud Qwiklabs. Follow me for more help! <a href="https://github.com/UtkarshKharche29?tab=repositories"> Utkarsh Kharche </a></h4>
 </p>
 
 <h2 align="center">Connect Me !! 🤝</h2> 
